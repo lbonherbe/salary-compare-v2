@@ -1,5 +1,7 @@
 # Salary Tax Comparator v2
 
+**Live demo: https://salary-compare-v2.streamlit.app/**
+
 Interactive web app comparing **gross-to-net salary** and **total cost to employer** across six situations:
 
 1. France
